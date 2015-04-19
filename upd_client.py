@@ -1,10 +1,10 @@
 #!/usr/bin/env python
-# Copyright (C) 2013, Tencent
+# Copyright (C) 2013, 
 # All rights reserved.
 #
 # Filename   : client_udp.py
 # Description: First draft
-# Author     : lanceqli@tencent.com
+# Author     : lance
 # Version    : 1.0
 # Date       : 2015-04-19
 import socket
