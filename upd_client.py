@@ -43,9 +43,9 @@ if __name__ == '__main__':
     #if len(sys.argv) != 4:
     #    showUsage()
 
-    server_ip = "183.60.15.170"     #sys.argv[1];
+    server_ip = "1.2.3.4"           #sys.argv[1];
     server_port = 14000             # sys.argv[2];
-    filename = "wns_free_pkg_wns"   #sys.argv[3];
+    filename = "pkg_filename.txt"   #sys.argv[3];
     print "sendto:%s:%d with %s" %(server_ip, server_port, filename);
 
     file_text = read_file(filename);
